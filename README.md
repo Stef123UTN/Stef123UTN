@@ -10,9 +10,10 @@
   </a>
   <img src="https://img.shields.io/badge/Costa%20Rica-San%20Carlos-red?style=for-the-badge" />
   <a href="https://wa.me/50663457280">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/WhatsApp%20%2B50663457280-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
+
 
 
 ---
