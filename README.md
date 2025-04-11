@@ -41,17 +41,16 @@ Soy una estudiante avanzada de la carrera ingeniería en Software de la Universi
 ## 👩‍💻 Experiencia Profesional
 
 ### 🎯 Líder de Área de Realidad Aumentada | CODEIN (2022 - 2025)
-- Coordinación de equipo de 6 personas (diseñadores y desarrolladores).
-- Asignación de tareas, seguimiento y control de calidad.
-- Planificación de proyectos y definición de entregables.
+- Dirigí un equipo de 6 personas, incluyendo desarrolladores y diseñadores, fomentando una colaboración eficiente.
+- Asigné tareas y monitoreé el progreso, asegurando el cumplimiento de los plazos y la calidad del trabajo.
+- Definí los objetivos y entregables del proyecto, desarrollando un plan detallado con cronograma.
 
 ### 💻 Desarrolladora Web | CODEIN
-- Participación en el desarrollo colaborativo de proyectos web.
-- Apoyo en frontend utilizando tecnologías modernas.
+- Colaboré en el desarrollo de un proyecto web, trabajando de manera conjunta con otros desarrolladores para integrar nuevas funcionalidades.
 
 ### 🎨 Diseñadora 3D
-- Procesamiento fotogramétrico en **Agisoft Metashape** para crear modelos 3D detallados a partir de fotografías.
-
+- Utilicé Metashape para procesar imágenes y generar modelos 3D detallados a partir de fotografías.
+- 
 ---
 
 ## 🎓 Educación
