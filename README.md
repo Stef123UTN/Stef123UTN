@@ -1,7 +1,7 @@
 <h1 align="center">👋 ¡Hola, soy Stefanny Gaitán Rodríguez!</h1>
 
 <p align="center">
-  Estudiante de Ingeniería en Software | Desarrolladora Web | Líder de Proyecto en RA | Diseñadora 3D
+  Ingeniería en Software | Desarrolladora Web 
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ## 🧠 Sobre mí
 
-Soy una estudiante avanzada de Ingeniería en Software en la Universidad Técnica Nacional (UTN). Tengo experiencia como líder de equipo en proyectos de realidad aumentada y desarrollo web. Me gusta aprender nuevas tecnologías, colaborar en equipo y enfrentar desafíos que me hagan crecer profesionalmente.
+Soy una ingeniera en Software en la Universidad Técnica Nacional (UTN). Tengo experiencia como líder de equipo en proyectos de realidad aumentada y desarrollo web. Me gusta aprender nuevas tecnologías, colaborar en equipo y enfrentar desafíos que me hagan crecer profesionalmente.
 
 ---
 
@@ -33,7 +33,7 @@ Soy una estudiante avanzada de Ingeniería en Software en la Universidad Técnic
 
 ## 👩‍💻 Experiencia Profesional
 
-### 🎯 Líder de Área de Realidad Aumentada | CODEIN (2022 - Actualidad)
+### 🎯 Líder de Área de Realidad Aumentada | CODEIN (2022 - 2025)
 - Coordinación de equipo de 6 personas (diseñadores y desarrolladores).
 - Asignación de tareas, seguimiento y control de calidad.
 - Planificación de proyectos y definición de entregables.
@@ -52,16 +52,15 @@ Soy una estudiante avanzada de Ingeniería en Software en la Universidad Técnic
 - 📘 Bachillerato en Ingeniería en Software – UTN (2024 - Actualidad)  
 - 📘 Diplomado en Ingeniería en Software – UTN (2021 - 2024)  
 - 📘 Diplomado en Inglés como Lengua Extranjera – UTN (2021 - 2024)  
-- 🏫 Bachillerato Educación Media – Liceo Francisco Amiguetti Herrera (2015 - 2019)
+
 
 ---
 
 ## 🌎 Idiomas
 
-- 🇪🇸 Español – Nativo  
-- 🇺🇸 Inglés – Básico a Intermedio  
-  - Certificación básica (INA, MEP, UTN)
-  - Curso de inglés conversacional
+- Español (Nativo)
+- Inglés (Intermedio - certificado por MEP, INA y UTN)
+
 
 ---
 
