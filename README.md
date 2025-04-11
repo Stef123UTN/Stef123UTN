@@ -14,7 +14,7 @@
 
 ## 🧠 Sobre mí
 
-Soy una ingeniera en Software en la Universidad Técnica Nacional (UTN). Tengo experiencia como líder de equipo en proyectos de realidad aumentada y desarrollo web. Me gusta aprender nuevas tecnologías, colaborar en equipo y enfrentar desafíos que me hagan crecer profesionalmente.
+Soy una estudiante avanzada de la carrera ingeniería en Software de la Universidad Técnica Nacional (UTN). Tengo experiencia como líder de equipo en proyectos de realidad aumentada y desarrollo web. Me gusta aprender nuevas tecnologías, colaborar en equipo y enfrentar desafíos que me hagan crecer profesionalmente.
 
 ---
 
@@ -26,7 +26,7 @@ Soy una ingeniera en Software en la Universidad Técnica Nacional (UTN). Tengo e
 <p align="left">
   <img src="https://img.shields.io/badge/Vuforia-005A9C?style=for-the-badge&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Meta%20Spark-0866FF?style=for-the-badge&logo=facebook&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Metashape-444444?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Agisoft%20Metashape-4A4A4A?style=for-the-badge&logo=autodesk&logoColor=white" />
 </p>
 
 ---
@@ -43,7 +43,7 @@ Soy una ingeniera en Software en la Universidad Técnica Nacional (UTN). Tengo e
 - Apoyo en frontend utilizando tecnologías modernas.
 
 ### 🎨 Diseñadora 3D
-- Procesamiento fotogramétrico en Metashape para crear modelos 3D desde fotografías.
+- Procesamiento fotogramétrico en **Agisoft Metashape** para crear modelos 3D detallados a partir de fotografías.
 
 ---
 
