@@ -1,7 +1,7 @@
 <h1 align="center">👋 ¡Hola, soy Stefanny Gaitán Rodríguez!</h1>
 
 <p align="center">
-  Ingeniería en Software | Desarrolladora Web 
+  Ingeniera en Software | Desarrolladora Web 
 </p>
 
 <p align="center">
